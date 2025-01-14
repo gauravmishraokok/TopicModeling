@@ -1,6 +1,8 @@
 
 # Topic Modeling Insights on lmsys-chat-1m Dataset Using BERTopic
 
+[Notebook Link](https://colab.research.google.com/drive/1V_vJt-1qsvT-ZPgdl0_ll21ZrPrWR1oA?usp=sharing)
+
 ## Task at hand and Why?
 
 - This Notebook provides a comprehensive analysis using **BERTopic**, a state-of-the-art topic modeling technique, applied to the [lmsys-chat-1m](https://huggingface.co/datasets/lmsys/lmsys-chat-1m) dataset on Hugging Face.
